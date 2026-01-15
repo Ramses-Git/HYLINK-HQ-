@@ -8,5 +8,7 @@ This'll give you full access to the terminal.
 Don't ask me how I managed to get it.
 
 [Dev Note:
-This is an unfinished project and I'm working on making this an actual game. I'm planning it to make it Point-And-Click.
+This is an unfinished project and I'm working on making this an actual game. I'm planning it to make it Point-And-Click. More will be added in the future.
 Stay Tuned.]
+
+Currect Version: Prerelease 0.1.0.^
