@@ -13,4 +13,4 @@ Stay Tuned.]
 
 Currect Version: Prerelease 0.1.0.^
 
-(P.S: You have to manually open the code file in your device's terminal. I don't know how to pre-implement that into GitHub yet, I'm very new to this.)
+(P.S: You have to manually download and open the code file in your device's terminal. I don't know how to pre-implement that into GitHub yet, I'm very new to this.)
